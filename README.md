@@ -1,7 +1,7 @@
 # WorldQuant-Applied-Data-Science-Lab
 8-end-to-end Guided Data Science Projects
 
-I have currently completed 5/8 projects, and will soon post my certification after completing all 8 projects.
+I have currently completed 7/8 projects, and will soon post my certification after completing all 8 projects.
 
 I am documenting my journey and am currently in the process of completing all eight projects at WorldQuant's Data Science Program, a transformative journey that has broadened my skills and knowledge in the field of data science! 🎓 ✨
 
