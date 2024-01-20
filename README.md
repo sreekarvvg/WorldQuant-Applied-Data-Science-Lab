@@ -17,4 +17,10 @@ Throughout the program, I had the opportunity to work on fascinating projects, e
 
 5- 𝗕𝗔𝗡𝗞𝗥𝗨𝗣𝗧𝗖𝗬 𝗜𝗡 𝗣𝗢𝗟𝗔𝗡𝗗: Learners build random forest and gradient boosting models to predict whether a company will go bankrupt. They navigate the Linux command line, address imbalanced data through resampling, and consider the impact of performance metrics precision and recall.
 
+6- 𝗖𝗨𝗦𝗧𝗢𝗠𝗘𝗥 𝗦𝗘𝗚𝗠𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡 𝗜𝗡 𝗧𝗛𝗘 𝗨𝗦: Learners build a k-means model to cluster US consumers into groups. They use principal component analysis (PCA) for data visualization, and they create an interactive dashboard with Plotly Dash.
+
+7- 𝗔/𝗕 𝗧𝗘𝗦𝗧𝗜𝗡𝗚 𝗔𝗧 𝗪𝗢𝗥𝗟𝗗𝗤𝗨𝗔𝗡𝗧 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗜𝗧𝗬: Learners conduct a chi-square test to determine if sending an email can increase program enrollment at WQU. They build custom Python classes to implement an ETL process, and they create an interactive data application following a three-tiered design pattern.
+
 I want to express my heartfelt gratitude to WorldQuant for providing an exceptional learning experience. The program's comprehensive curriculum and hands-on projects have equipped me with practical skills and a deep understanding of data science techniques.
+
+**NOTE - Due to copyright constraints, the learner is unable to upload the Jupyter book codes to GitHub as these projects are not original creations.**
